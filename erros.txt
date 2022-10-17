@@ -1,0 +1,1 @@
+Na documentação endpoint POST/login, o status code 401 não foi mencionado.

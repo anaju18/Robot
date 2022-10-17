@@ -1,0 +1,26 @@
+{
+    "user_valido":{
+        "nome": "Ana Júlia Santin",
+        "email": "anajuliasantin@gmail.com",
+        "password": "01234567",
+        "administrador": "true"
+    },
+    "user_invalido":{
+        "nome": "user_invalido",
+        "email": "fulano@qa.com",
+        "password": "123exemplo456",
+        "administrador": "true"
+    },
+    "user_sem_senha":{
+        "nome": "Arnold S",
+        "email": "arnold@qa.com",
+        "password": "",
+        "administrador": "true"
+    },
+    "user_sem_email":{
+        "nome":"James Bond",
+        "email":"",
+        "password":"123",
+        "administrador": "true"
+    }
+}
